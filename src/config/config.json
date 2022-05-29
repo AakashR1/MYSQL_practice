@@ -1,0 +1,15 @@
+{
+    "development":{
+            "host":"localhost",
+            "user":"root",
+            "database":"XYZCompanyDataBase",
+            "password":"",
+            "multipleStatements": true
+    },
+    "test":{
+
+    },
+    "production":{
+
+    }
+}
